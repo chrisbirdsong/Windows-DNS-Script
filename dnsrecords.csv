@@ -1,0 +1,2 @@
+hostname,ipaddress,reversezone,PtrDomainName,name
+  server01,192.168.1.1,1.168.192.in-addr.arpa,server01.domain.com,1
